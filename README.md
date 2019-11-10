@@ -37,7 +37,7 @@ You can check which (if any) versions of these that you have installed by typing
 * python --version
 * jupyter --version
 
-This project also requires a number of external Python libraries ([listed below](#Libraries-Used)). These come with the Anaconda distribution and should not need to be installed separately, however links to the website for each are included.
+This project also requires a number of external Python libraries ([listed below](#Libraries-Used)). These come with the Anaconda Distribution and should not need to be installed separately, however links to the website for each are included.
 
 ### Libraries Used
 
@@ -68,4 +68,4 @@ Once the correct software has been installed, running either of the included pro
 Github will not render .svg images unless the following is appended to the image address:
 > ?sanitize=true
 
-This has not been included in the notebook in order to ensure that it renders correctly when run locally. It is therefore recommended that the repository be run locally rather than relying on thr Github render.
+This has not been included with the svg image embedded in the notebook in order to ensure that it renders correctly when run locally. It is therefore recommended that the repository be run locally rather than relying on the Github render.
