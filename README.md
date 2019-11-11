@@ -29,7 +29,7 @@ To download it, do the following:
 
 ### Software Required
 
-The notebook is written using Jupyter Lab v1.0.2. and Python v3.7.3 and has not been tested with versions earlier than those. I recommend that you download the current Python 3.x Anaconda Distribution (which contains both Python and Jupyter Lab) from the [downloads section](https://www.anaconda.com/distribution/#download-section) of the Anaconda Website.
+The notebook has been written using Jupyter Lab v1.0.2. and Python v3.7.3 and should be run on a computer with these versinos or higher if possible. I recommend that you download the current Python 3.x Anaconda Distribution (which contains both Python and Jupyter Lab) from the [downloads section](https://www.anaconda.com/distribution/#download-section) of the Anaconda Website.
 
 When it has downloaded, follow the installation steps with the default options to install Anaconda on your computer.
 
